@@ -1,2 +1,2 @@
-# text_animation
-SVG Animation With Text
+# animations
+Some simple animations...
