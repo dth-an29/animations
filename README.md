@@ -1,2 +1,2 @@
 # animations
-Some simple animations...
+Some simple animations with HTLM/CSS.
